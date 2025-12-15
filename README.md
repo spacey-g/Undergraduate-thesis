@@ -1,4 +1,4 @@
-# 📌 Assessment of Landslide Susceptibility Using CNN and SVM
+# Assessment of Landslide Susceptibility Using CNN and SVM
 ### *Undergraduate Thesis Project*
 
 This repository contains the complete documentation, methodology, and analysis from my undergraduate engineering thesis titled:  
@@ -12,29 +12,8 @@ The model aims to predict landslide-prone areas using satellite imagery and topo
 
 ---
 
-## 📁 Repository Structure
 
-Undergraduate-thesis/
-│
-├── README.md ← Project overview (this file)
-│
-├── docs/
-│ ├── UPDATED LANDSLIDE REPORT.pdf ← Full thesis document
-│ └── placeholder.txt
-│
-├── src/
-│ ├── pseudo_code.md ← Reconstructed algorithm design (coming)
-│ ├── model_outline.py ← Planned code structure (coming)
-│ └── placeholder.txt
-│
-└── future-work/
-├── rebuild-plan.md ← How this project will be modernized
-└── placeholder.txt
-
-
----
-
-## 🧠 Abstract
+##  Abstract
 
 Landslide susceptibility mapping identifies regions likely to experience landslides based on environmental, geological, and topographic conditions.  
 This project introduces a deep-learning-based hybrid approach that combines **CNN** for automated feature extraction and **SVM** for accurate classification of landslide vs non-landslide regions.
@@ -43,7 +22,7 @@ The proposed method shows **high accuracy** in prediction and offers a promising
 
 ---
 
-## 🛠️ Methodology
+##  Methodology
 
 ### **1. Data Collection**
 - Satellite imagery  
@@ -78,7 +57,7 @@ The hybrid CNN–SVM model combines powerful feature learning with robust classi
 
 ---
 
-## 📊 Results
+##  Results
 
 The proposed CNN–SVM hybrid approach achieved:
 
@@ -91,7 +70,7 @@ This demonstrates its suitability for practical landslide risk assessment.
 
 ---
 
-## 🧩 Future Improvements
+##  Future Improvements
 
 This project can be extended by:
 
@@ -105,15 +84,15 @@ A detailed rebuild plan will be added in the `future-work/` directory.
 
 ---
 
-## 📄 Full Thesis Document
+##  Full Thesis Document
 
 Click below to view the full project report:
 
-👉 **[`docs/UPDATED LANDSLIDE REPORT.pdf`](docs/UPDATED%20LANDSLIDE%20REPORT.pdf)**
+ **[`docs/UPDATED LANDSLIDE REPORT.pdf`](docs/UPDATED%20LANDSLIDE%20REPORT.pdf)**
 
 ---
 
-## 🎓 About This Project
+##  About This Project
 
 This thesis was completed as part of my  
 **Bachelor of Engineering (ECE)** at  
@@ -123,4 +102,3 @@ The work demonstrates the integration of machine learning, image processing, and
 
 ---
 
-# 🔚 End of README
